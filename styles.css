@@ -158,7 +158,7 @@ h1 {
 .content-wrapper p {
     text-align: left;
     position: absolute;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 200;
     font-family:  'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: var(--dark-purple);
@@ -197,7 +197,7 @@ h1 {
     top: 194%;
     width: 100%;
     height: 100vh;
-    scale: 122%;
+    scale: 125%;
 }
 
 .projects-section-content {
