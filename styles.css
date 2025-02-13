@@ -195,9 +195,9 @@ h1 {
     position: absolute;
     z-index: 1;
     top: 198%;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
-    scale: 138%;
+    scale: 100%;
 }
 
 .projects-section-content {
