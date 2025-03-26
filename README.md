@@ -2,7 +2,6 @@
 {
   "title": "Personal Portfolio Prototype",
   "description": "A Prototype Portfolio, brief and simple, yet functional and complete. This is the last project for the Responsive Web Design certification from FreeCodeCamp.",
-  "video": " ", 
   "imagePreview": "https://github.com/FerRuizDevp/personal-portfolio-prototype/assets/117100019/baba4454-a74d-471c-8807-8f58d34f96e1",
   "githubLink": "https://github.com/FerRuizDevp/personal-portfolio-prototype",
   "netlifyLink": "https://personal-portfolio-prototype.netlify.app",
