@@ -5,7 +5,7 @@
   "imagePreview": "https://github.com/FerRuizDevp/personal-portfolio-prototype/assets/117100019/baba4454-a74d-471c-8807-8f58d34f96e1",
   "githubLink": "https://github.com/FerRuizDevp/personal-portfolio-prototype",
   "netlifyLink": "https://personal-portfolio-prototype.netlify.app",
-  "tags": ["more-project", "landing-page", "html", "css", "static-design"]
+  "tags": ["more-project", "landing-page", "HTML", "CSS", "static-design"]
 }
 -->
 ## 💼 Personal Portfolio Prototype
